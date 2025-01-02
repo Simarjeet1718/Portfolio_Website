@@ -24,8 +24,8 @@ const Projects = () => {
       id: 3,
       image: portfolio,
       pname: "Personal Portfolio",
-      projectLink: "https://simarjeet-portfolio.com", // Replace with your live project link
-      codeLink: "https://github.com/user/portfolio", // Replace with your GitHub repo link
+      projectLink: "https://zingy-florentine-9c54d0.netlify.app", // Replace with your live project link
+      codeLink: "https://github.com/Simarjeet1718/Portfolio_Website", // Replace with your GitHub repo link
     },
   ];
 
